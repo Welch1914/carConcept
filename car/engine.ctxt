@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=engine()
+comment1.params=
+comment1.target=int\ oilLevel()
+comment2.params=
+comment2.target=void\ useOil()
+comment3.params=
+comment3.target=boolean\ turnKey()
+comment4.params=
+comment4.target=boolean\ status()
+numComments=5
